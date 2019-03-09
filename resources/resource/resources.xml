@@ -1,0 +1,5 @@
+<resources>
+    <fonts>
+      <font id="id_font_medium" filename="fonts/andika32.fnt" antialias="true" />
+    </fonts>
+</resources>
